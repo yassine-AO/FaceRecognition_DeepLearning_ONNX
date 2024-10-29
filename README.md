@@ -15,8 +15,6 @@ This project is a robust face recognition application that detects faces, genera
 5. [Setup Instructions](#setup-instructions)
 6. [How It Works: Face Recognition Pipeline](#how-it-works-face-recognition-pipeline)
 7. [Why Use ArcFace and ONNX](#why-use-arcface-and-onnx)
-8. [Troubleshooting](#troubleshooting)
-9. [Future Enhancements](#future-enhancements)
 
 ---
 
