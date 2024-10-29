@@ -1,4 +1,4 @@
-# 🧠 Face Recognition System using ArcFace and ONNX
+# 🧠 📸 Face Recognition System using ArcFace and ONNX
 
 ## Overview
 
