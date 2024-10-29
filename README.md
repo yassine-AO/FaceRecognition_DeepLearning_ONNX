@@ -1,4 +1,4 @@
-# 🧠 📸 Face Recognition System using ArcFace and ONNX
+# 🧠 Deep Learning Face Recognition with ArcFace and ONNX
 
 ## Overview
 
